@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ci-cd-example",
+    "slug": "ci-cd-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
